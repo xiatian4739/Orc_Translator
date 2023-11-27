@@ -2,6 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.ropeproject
+.build
+key.ini
+checks.json
+*.user
 
 # C extensions
 *.so

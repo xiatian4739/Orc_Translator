@@ -1,0 +1,10 @@
+{
+    "files": [
+        "widget.py",
+        "form.ui",
+        "Orc.py",
+        "translate.py",
+        "tenApi.py",
+        "tenOrc.py"
+    ]
+}
